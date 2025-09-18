@@ -1,0 +1,2 @@
+OPENAI_API_KEY=sk-proj-xxxxxxxxxxxxxxxx
+MCP_SERVER_URL=https://my-awesome-news.shop/api/mcp
